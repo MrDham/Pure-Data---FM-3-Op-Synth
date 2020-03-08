@@ -1,7 +1,7 @@
-# Pure-Data---FM-3-Op-Synth
+# Pure-Data-VD-FM-Theremin-Synth
 A Pure Data very simple 3 operator FM synth that works well with MIDI Theremin
 
-This synth is developed in pure data languge. for more information go to : www.puredata.info/. 
+This synth is developed in Pure Data languge. for more information go to : www.puredata.info/. 
 
 It consist in 3 serialised FM operators.
 
