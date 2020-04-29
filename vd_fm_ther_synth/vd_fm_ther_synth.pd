@@ -17,7 +17,7 @@
 #X obj 1260 232 ctlin 71;
 #X obj 250 34 bendin, f 7;
 #X obj 250 100 - 24;
-#X obj 250 67 / 341.33;
+#X obj 250 67 / 170.67;
 #X obj 316 152 +;
 #X obj 316 120 bng 15 250 50 0 empty empty empty 17 7 0 10 -262144
 -1 -1;
