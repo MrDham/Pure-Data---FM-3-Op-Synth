@@ -4,7 +4,7 @@ https://github.com/MrDham/OpenTheremin_V3_with_MIDI
 
 This synth is developed in Pure Data language. for more information go to : www.puredata.info/. 
 
-It consist in 3 serialised FM operators.
+It consist in 3 serialised FM operators (Modulator 2 --> Modulator 1 --> Generator), a filter, a VCA and a vibrato (mod wheel).  
 
 yml file gives configuration options to use it in Zynthian project https://zynthian.org/. 
 
