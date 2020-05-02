@@ -1,12 +1,12 @@
-main_file: "vd_sample_seq.pd"
+main_file: "vd_fm_ther_synth.pd"
 
 midi_controllers:
  Volume:
   midi_cc: 7
-  value: 64
+  value: 127
  Expression:
   midi_cc: 11
-  value: 0
+  value: 127
  Mod_Wheel_Freq:
   midi_cc: 16
   value: 32
