@@ -1,4 +1,4 @@
-# Pure-Data-VD-FM-Theremin-Synth
+# Pure-Data-FM-Theremin-Synth
 A Pure Data very simple 3 operator FM synth that works well with MIDI Theremin (version 2.3 and above)
 https://github.com/MrDham/OpenTheremin_V3_with_MIDI 
 
